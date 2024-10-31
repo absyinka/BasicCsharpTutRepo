@@ -1,0 +1,14 @@
+C:\Users\Abbas\Desktop\CsharpProjects\DataTypeConversion\bin\Debug\net8.0\DataTypeConversion.exe
+C:\Users\Abbas\Desktop\CsharpProjects\DataTypeConversion\bin\Debug\net8.0\DataTypeConversion.deps.json
+C:\Users\Abbas\Desktop\CsharpProjects\DataTypeConversion\bin\Debug\net8.0\DataTypeConversion.runtimeconfig.json
+C:\Users\Abbas\Desktop\CsharpProjects\DataTypeConversion\bin\Debug\net8.0\DataTypeConversion.dll
+C:\Users\Abbas\Desktop\CsharpProjects\DataTypeConversion\bin\Debug\net8.0\DataTypeConversion.pdb
+C:\Users\Abbas\Desktop\CsharpProjects\DataTypeConversion\obj\Debug\net8.0\DataTypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abbas\Desktop\CsharpProjects\DataTypeConversion\obj\Debug\net8.0\DataTypeConversion.AssemblyInfoInputs.cache
+C:\Users\Abbas\Desktop\CsharpProjects\DataTypeConversion\obj\Debug\net8.0\DataTypeConversion.AssemblyInfo.cs
+C:\Users\Abbas\Desktop\CsharpProjects\DataTypeConversion\obj\Debug\net8.0\DataTypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\Abbas\Desktop\CsharpProjects\DataTypeConversion\obj\Debug\net8.0\DataTypeConversion.dll
+C:\Users\Abbas\Desktop\CsharpProjects\DataTypeConversion\obj\Debug\net8.0\refint\DataTypeConversion.dll
+C:\Users\Abbas\Desktop\CsharpProjects\DataTypeConversion\obj\Debug\net8.0\DataTypeConversion.pdb
+C:\Users\Abbas\Desktop\CsharpProjects\DataTypeConversion\obj\Debug\net8.0\DataTypeConversion.genruntimeconfig.cache
+C:\Users\Abbas\Desktop\CsharpProjects\DataTypeConversion\obj\Debug\net8.0\ref\DataTypeConversion.dll
